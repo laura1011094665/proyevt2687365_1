@@ -1,0 +1,1 @@
+En este repositorio podemos ver el taller 6, donde podemos ver el repository pattern, donde se crea un paquete repositoy en el paquete modelo, luego se crea una interfaz llamada repository y otros dos javas class en donde actualizamos, insertamos y borramos datos a nuestra base de datos por medio de la aplicación intellij ID. 
